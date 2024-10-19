@@ -13,7 +13,7 @@ In our dataset, the total number of spectrogram images generated using the open-
 
 The dataset consist of 3780 spectrogram images (Image JPG File (.JPG)) corresponding to micro-Doppler signatures of different human activities; namely (a) army marching, (b) Stone pelting/Grenades throwing, (c) jumping with holding a gun, (d) army Jogging, (e) army crawling and (f) boxing activities.
 
-To download the .mat files, for the free educational access, please send an e-mail request to "brazilraj.a@diat.ac.in" and "sunitadhavale@diat.ac.in" mentioning the subject: “DIAT-µRadHAR Dataset Educational Access Request” from their institutional e-mail id.
+To download the .mat files, for educational access, please visit: https://ieee-dataport.org/documents/diat-%CE%BCradhar-radar-micro-doppler-signature-dataset-human-suspicious-activity-recognition
 
 The DIAT-μRadHAR dataset is completely open to academic research. To use the dataset, please cite the following base/original papers:
 
